@@ -77,4 +77,4 @@ Copyright (c) 2016 Copyright Holder All Rights Reserved.
 
 
 
-<img src="./avater.jpg" alt="头像">
+<img src="./img/avater.jpg" alt="头像">
